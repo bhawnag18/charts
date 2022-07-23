@@ -1,0 +1,35 @@
+{
+    "dataa":[
+        {
+          "name":"python",
+          "student":13,
+          "fees":10
+        },
+        {
+          "name":"javascript",
+          "student":15,
+          "fees":12
+        },
+        {
+          "name":"php",
+          "student":5,
+          "fees":10
+        },
+        {
+          "name":"java",
+          "student":10,
+          "fees":5
+        },
+         {
+           "name":"c#",
+           "student":9,
+           "fees":4
+         },
+        {
+          "name":"c++",
+          "student":10,
+          "fees":8
+        }
+      
+      ]
+}
