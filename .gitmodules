@@ -1,0 +1,3 @@
+[submodule "src/sidemenu-bottom"]
+	path = src/sidemenu-bottom
+	url = https://github.com/bhawnag18/sidemenu-bottom.git
